@@ -1,0 +1,7 @@
+class Add2floatNumbers{
+public static void main(String[] args){
+float x=2.3,y=3.4,z;
+z=x+y;
+System.out.println(z);
+}
+}
